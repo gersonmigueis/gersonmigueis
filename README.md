@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Lutti](https://www.mercadolutti.com/)
 
-- 📫 How to reach me **gersonmigueis10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
