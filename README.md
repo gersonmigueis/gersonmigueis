@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerson Migueis</h1>
 <h3 align="center">I'm a FullStack developer, passionate about technology and challenges, I'm always looking to do my best and help people.</h3>
 
-- 🔭 I’m currently working on [Sthima](https://www.sthima.com.br/)
+- 🔭 I’m currently working on [Meta]
 
 
 <h3 align="left">Connect with me:</h3>
