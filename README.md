@@ -1,18 +1,40 @@
-<h1 align="center">Hi 👋, I'm Gerson Migueis</h1>
-<h3 align="center">As a Software Engineer with over +5 years of experience, my passion is developing scalable and secure applications that truly make a difference. I focus on designing APIs and architecting solutions with modern technologies like Node.js, Java (Spring Boot), AWS Cloud, and IaC. I am a strong believer in development best practices, such as Security, Clean Code, and Clean Architecture, and I enjoy the challenge of turning ideas into solutions that add real value..</h3>
+# Hi 👋, I'm Gerson Migueis
 
-- 🔭 I’m currently working on [Gertec](linkedin.com/company/gertec?originalSubdomain=br)
+**Senior Software Engineer | Backend & Cloud Infrastructure**
 
+Senior Software Engineer with over 5+ years of experience and deep expertise in cloud infrastructure, automation, and DevOps practices. My focus is architecting secure, high-availability systems, with specialized experience in **PCI DSS** compliant environments.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🎯 Professional Expertise
+
+*   **Backend Development:** Expert in designing scalable APIs and microservices using **Node.js (TypeScript)**, **Java**, and **Python (Django)**.
+*   **Infrastructure as Code (IaC):** Advanced management of cloud resources using **Terraform** and **CloudFormation**.
+*   **Cloud & Orchestration:** Deep knowledge of **AWS ecosystem** (EKS, Lambda, ECS, SQS) and **Kubernetes** (Helm, ArgoCD).
+*   **DevSecOps & Security:** Implementing secure CI/CD pipelines with **SAST/DAST** integration and full observability with **Datadog**.
+*   **Compliance:** Experience architecting systems from scratch to meet strict financial certifications (**PCI SSS & PCI DSS**).
+
+---
+
+### 🛠 Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Node.js (TypeScript), Java, Python, Bash |
+| **Cloud/IaC** | AWS, GCP, Terraform, CloudFormation |
+| **DevOps** | Kubernetes, Docker, GitLab CI, GitHub Actions, NGINX |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, SQS, SNS |
+| **Observability** | Datadog (APM & Infrastructure), Jest |
+
+---
+
+### 🚀 Current Impact
+*   🔭 **Working at [Gertec](https://www.linkedin.com/company/gertec):** Leading technical efforts for critical payment certifications and building secure, high-availability AWS infrastructure from the ground up.
+
+---
+
+### 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/gerson-migueis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerson-migueis" height="30" width="40" /></a>
-<a href="https://instagram.com/gmigueis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmigueis" height="30" width="40" /></a>
+<a href="mailto:gersonmigueis10@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gersonmigueis&show_icons=true&locale=en&layout=compact" alt="gersonmigueis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gersonmigueis&show_icons=true&locale=en" alt="gersonmigueis" /></p>
