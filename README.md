@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerson Migueis</h1>
-<h3 align="center">I'm a FullStack developer, passionate about technology and challenges, I'm always looking to do my best and help people.</h3>
+<h3 align="center">As a Software Engineer with over +5 years of experience, my passion is developing scalable and secure applications that truly make a difference. I focus on designing APIs and architecting solutions with modern technologies like Node.js, Java (Spring Boot), AWS Cloud, and IaC. I am a strong believer in development best practices, such as Security, Clean Code, and Clean Architecture, and I enjoy the challenge of turning ideas into solutions that add real value..</h3>
 
-- 🔭 I’m currently working on [Meta](https://www.linkedin.com/company/metaoficial/)
+- 🔭 I’m currently working on [Gertec](linkedin.com/company/gertec?originalSubdomain=br)
 
 
 <h3 align="left">Connect with me:</h3>
